@@ -44,6 +44,9 @@ This Power BI project focuses on delivering clear, actionable insights into Amaz
 
 The dashboard includes:
 
+<img width="1418" height="804" alt="image" src="https://github.com/user-attachments/assets/483c16ed-bf9c-4071-91b1-d6a4d3c4fded" />
+
+
 ## 🔎 Interactive Filters
 
 Country selector for region-based insights
